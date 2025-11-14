@@ -3,28 +3,46 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+# About TE Connectivity: Powering Innovation Since 1941
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Who We Are
 
-There are currently two themes built on Poole:
+TE Connectivity Ltd. (NYSE: TEL) is an American-Irish technology company and a global leader in the design and manufacture of highly engineered connectivity and sensor solutions. We are the trusted partner for engineering applications that require high-performance, reliable, and sustainable componentry. Our extensive portfolio ensures that every connection counts, from transmitting high-speed data in a server farm to distributing power in a remote renewable energy system.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## Our Legacy: A History of Innovation
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Our roots trace back to AMP Incorporated, founded in 1941 with a mission to produce essential solderless electrical connections, initially for aircraft and marine applications. This focus on critical connection technology continued through our time as part of Tyco International.
 
-## Setup
+TE Connectivity was officially established in 2007 as a dedicated spin-off, zeroing in entirely on connectivity and sensor solutions. Through strategic acquisitions, such as Richards Manufacturing, we have continuously expanded our capabilities and market reach, reinforcing our position as an industry pioneer.
 
-Some fun facts about the setup of this project include:
+## Global Expertise and Footprint
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+**Headquarters:** Incorporated in Galway, Ireland, with executive offices in Berwyn, Pennsylvania, USA.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+**Global Team:** A worldwide workforce of over 85,000 employees, supported by more than 9,000 dedicated engineers.
 
-Thanks for reading!
+**Reach:** Operating in approximately 130–150 countries, providing local support and collaborating globally with leading OEMs and industrial partners.
+
+## Product & Solutions Portfolio
+
+TE Connectivity offers one of the industry's broadest and deepest portfolios, engineered to perform under the harshest conditions:
+
+| Category | Key Product Examples |
+|----------|----------------------|
+| Connectors | Circular, D-Sub, USB-C, High-speed I/O, Automotive Connectors |
+| Sensors | Temperature, Humidity, Motion, and Light sensors for IoT and industrial use |
+| Relays & Switches | PCB and Industrial Relays, Power Distribution Switches |
+| Cable & Wiring | Cable Assemblies, Fiber Optic Cables, Terminal Blocks, and Cable Management |
+| Power Management | AC/DC & DC/DC Converters, UPS Systems, Thermal Management Modules |
+
+## Commitment to a Sustainable Future
+
+Innovation and sustainability are core to our identity. We invest heavily in Research and Development, resulting in a robust intellectual property portfolio of 14,000+ patents granted or pending.
+
+Our focus on sustainability includes:
+
+- Developing energy-reducing components for data centers.
+- Creating eco-friendly contact coatings.
+- Engaging with suppliers to promote greener production methods.
+
+We are dedicated to engineering solutions that enhance energy efficiency, improve data connectivity, and uphold our commitment to environmental responsibility.

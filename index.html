@@ -3,35 +3,39 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<div class="home-content">
+  <!-- Hero Section -->
+  <section class="hero-section">
+    <h1>Engineering the Future of Connection</h1>
+    <h2 class="hero-subtitle">Reliable Power, Signal, and Data Distribution</h2>
+    <p class="hero-description">A global technology leader specializing in high-performance connectivity and sensor solutions for the world's most demanding environments.</p>
+    <div class="cta-buttons">
+      <a href="#solutions" class="btn btn-primary">Explore Our Solutions</a>
+      <a href="/about" class="btn btn-secondary">Learn More About TE</a>
+    </div>
+  </section>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+  <!-- Precision in Every Connection -->
+  <section class="precision-section">
+    <h2>🔗 Precision in Every Connection</h2>
+    <p>TE Connectivity (NYSE: TEL) is at the heart of the technologies that are transforming our world. We design and manufacture essential electrical and electronic components—including connectors, sensors, relays, and switches—that ensure the reliable flow of power, signal, and data where it matters most. From the deepest oceans to the outer reaches of space, our products enable critical systems in harsh and challenging environments.</p>
+  </section>
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+  <!-- Applications That Matter -->
+  <section class="applications-section">
+    <h2>💡 Applications That Matter</h2>
+    <p>Our products are purpose-built for durability and high performance across mission-critical industries:</p>
+    <ul>
+      <li><strong>Automotive:</strong> Enabling the next generation of electric vehicles (EVs), autonomous driving, and safety systems.</li>
+      <li><strong>Industrial:</strong> Driving robotics, factory automation, and smart grid infrastructure.</li>
+      <li><strong>Aerospace & Defense:</strong> Providing robust avionics and defense electronics in extreme conditions.</li>
+      <li><strong>Medical:</strong> Supplying miniature, high-reliability components for diagnostic and surgical devices.</li>
+    </ul>
+  </section>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
+  <!-- Global Scale, Local Impact -->
+  <section class="global-section">
+    <h2>🌎 Global Scale, Local Impact</h2>
+    <p>With over 85,000 employees and a presence in approximately 130–150 countries, TE brings together a global network of expertise, including over 9,000 engineers. We partner with OEMs and technology companies worldwide to solve complex engineering challenges and drive innovation.</p>
+  </section>
 </div>
